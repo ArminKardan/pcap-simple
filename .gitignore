@@ -1,0 +1,6 @@
+/push.exe
+/node_modules/*
+/packages/*
+chrome
+/ConsoleApp3/bin/*
+/ConsoleApp3/obj/*
